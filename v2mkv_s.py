@@ -1,3 +1,6 @@
+# MIT License
+# Copyright (c) 2024 SI Xiaolong
+
 import whisper
 import pysrt
 import os
