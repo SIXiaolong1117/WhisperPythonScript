@@ -9,7 +9,7 @@
 > 如果想要将字幕和媒体文件封装成 `.mkv`，还需要安装 `ffmpeg`。
 
 ```bash
-git clone https://github.com/Direct5dom/WhisperPythonScript.git
+git clone https://github.com/SIXiaolong1117/WhisperPythonScript.git
 cd WhisperPythonScript
 pip install -r requirements.txt
 ```
